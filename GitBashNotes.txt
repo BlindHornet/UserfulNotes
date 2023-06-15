@@ -1,3 +1,6 @@
+
+### Read File As Writing ###
 1. Navigate to folder (cd \\folderlocation)
 2. Type the following to follow file:
   tail -f <filename>.txt
+
